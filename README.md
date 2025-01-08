@@ -20,8 +20,8 @@
 
 ## Contact
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marta-bernardo-zamora/)
-[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:martabernardozamora@gmail.com)
+[![linkedin: https://www.linkedin.com/in/marta-bernardo-zamora/](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marta-bernardo-zamora/)
+[![gmail: martabernardozamora@gmail.com](https://skillicons.dev/icons?i=gmail)](mailto:martabernardozamora@gmail.com)
 
 ## Github stats
 
@@ -53,4 +53,4 @@
   - [María Paz Manrique (@PazManrique)](https://github.com/PazManrique)
 
 Last Edited on:
-07/01/2025
+08/01/2025
