@@ -1,3 +1,4 @@
+
 # :space_invader: Hello! I'm Marta Bernardo Zamora :space_invader:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=7514A9&center=true&width=435&lines=Trying+it+and+Catching+it...+;so+Learning+it!)](https://git.io/typing-svg)
@@ -52,5 +53,24 @@
   - [Elena Garzón Mieres (@elegarmi)](https://github.com/elegarmi)
   - [María Paz Manrique (@PazManrique)](https://github.com/PazManrique)
 
+```batch
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+{} _______ _                 _           __           {}
+{}|__   __| |               | |         / _|          {}
+{}   | |  | |__   __ _ _ __ | | _____  | |_ ___  _ __ {}
+{}   | |  | '_ \ / _` | '_ \| |/ / __| |  _/ _ \| '__|{}
+{}   | |  | | | | (_| | | | |   <\__ \ | || (_) | |   {}
+{}   |_|  |_| |_|\__,_|_| |_|_|\_\___/ |_| \___/|_|   {}
+{}                         | | (_)              | |   {}
+{} _   _  ___  _   _ _ __  | |_ _ _ __ ___   ___| |   {}
+{}| | | |/ _ \| | | | '__| | __| | '_ ` _ \ / _ \ |   {}
+{}| |_| | (_) | |_| | |    | |_| | | | | | |  __/_|   {}
+{} \__, |\___/ \__,_|_|     \__|_|_| |_| |_|\___(_)   {}
+{}  __/ |                                             {}
+{} |___/                                              {}
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+```
 Last Edited on:
-08/01/2025
+10/01/2025
+
+<sub>This README and all repos were created with :purple_heart:</sub>
