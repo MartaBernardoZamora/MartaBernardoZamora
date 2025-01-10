@@ -1,3 +1,4 @@
+
 # :space_invader: Hello! I'm Marta Bernardo Zamora :space_invader:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=7514A9&center=true&width=435&lines=Trying+it+and+Catching+it...+;so+Learning+it!)](https://git.io/typing-svg)
@@ -20,8 +21,8 @@
 
 ## Contact
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marta-bernardo-zamora/)
-[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:martabernardozamora@gmail.com)
+[![linkedin: https://www.linkedin.com/in/marta-bernardo-zamora/](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marta-bernardo-zamora/)
+[![gmail: martabernardozamora@gmail.com](https://skillicons.dev/icons?i=gmail)](mailto:martabernardozamora@gmail.com)
 
 ## Github stats
 
@@ -52,5 +53,20 @@
   - [Elena Garzón Mieres (@elegarmi)](https://github.com/elegarmi)
   - [María Paz Manrique (@PazManrique)](https://github.com/PazManrique)
 
+```batch
+||  ________                __            ____          ||
+|| /_  __/ /_  ____ _____  / /_______    / __/___  _____||
+||  / / / __ \/ __ `/ __ \/ //_/ ___/   / /_/ __ \/ ___/||
+|| / / / / / / /_/ / / / / ,\ (__  )   / __/ /_/ / /    ||
+||/_/ /_/ /_/\__,_/_/ /_/_/\_/____/ _ /_/  \____/_/  __ ||
+||   __  ______  __  _______   / /_(_)___ ___  ___  / / ||
+||  / / / / __ \/ / / / ___/  / __/ / __ `__ \/ _ \/ /  ||
+|| / /_/ / /_/ / /_/ / /     / /_/ / / / / / /  __/_/   ||
+|| \__, /\____/\__,_/_/      \__/_/_/ /_/ /_/\___(_)    ||
+||/____/                                                ||
+```
+
 Last Edited on:
-07/01/2025
+10/01/2025
+
+<sub>This README and all repos were created with :purple_heart:</sub>
